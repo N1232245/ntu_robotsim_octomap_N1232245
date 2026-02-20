@@ -1,0 +1,2 @@
+prepend-non-duplicate;GZ_SIM_RESOURCE_PATH;{prefix}/share/ntu_robotsim_octomap
+prepend-non-duplicate;IGN_GAZEBO_RESOURCE_PATH;{prefix}/share/ntu_robotsim_octomap
